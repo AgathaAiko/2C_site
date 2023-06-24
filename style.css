@@ -44,3 +44,11 @@
     .continuacao{
         padding: 0 0 30px 0;
     }
+
+        .pimentinha{
+        background-image: linear-gradient(lemonchiffon, #dd371a);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
