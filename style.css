@@ -41,10 +41,4 @@
     width: 15%;
     }
 
-        .batata{
-        background-image: linear-gradient(#dd371a), #af0000);
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        padding: 24px 0;
-        }
+    
