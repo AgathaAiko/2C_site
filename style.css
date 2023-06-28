@@ -49,3 +49,7 @@
   .imagem_semana1{
     width: 20%;
   }
+  .semana01{
+    display: flex;
+    justify-content: space-around;
+  }
