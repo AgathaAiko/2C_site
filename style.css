@@ -54,6 +54,7 @@
     width: 20%;
   }
   .semana01{
+    background-image: linear-gradient(rgb(196, 26, 26));
     display: flex;
     justify-content: space-around;
   }
