@@ -47,6 +47,7 @@
       background-color: #dd371a;  
       display: flex;
       justify-content: center;
+      align-items: center;
     }
   .imagem_semana1{
     width: 20%;
